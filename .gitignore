@@ -4,6 +4,9 @@
 readonly
 __pycache__
 *.pyc
+*.meta
+*.index
+weights*
 
 # week 2
 tensorboard_logs
